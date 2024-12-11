@@ -1,0 +1,69 @@
+div{
+    background-color: rgb(204, 181, 118);
+    font-family:monospace;
+    color: rgb(145, 106, 61);
+}
+
+.rodape{
+    color: rgb(127, 197, 121);
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family:sans-serif;
+}
+
+.a{ 
+    background-color:rgb(170, 214, 145);
+    color:rgb(70, 122, 40);
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(140, 202, 116);
+    width: 60px;
+    height: 20px;
+}
+
+.b{
+    background-color: rgb(123, 182, 84);
+    color: rgb(56, 99, 27);
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(164, 226, 139);
+    width: 100px;
+    height: 20px;
+}
+
+.agrupamento{
+    background-color: rgb(204, 181, 118);
+    border: 2px solid rgb(185, 157, 121);
+    margin: 6px;
+    padding: 10px;
+}
+
+.c{
+    background-color:rgb(204, 181, 118);
+    color: rgb(128, 94, 60);
+    border: 2px solid rgb(223, 209, 167);
+    margin: 10px;
+    padding: 10px;
+}
+
+.c::selection{
+    color: rgb(243, 167, 141);
+    background-color: rgb(199, 117, 90);
+}
+
+.personalizado{
+    background-color:rgb(157, 201, 116);
+    color: rgb(84, 117, 46);
+    border: 2px solid rgb(185, 221, 162) ;
+    margin: 10px;
+    padding: 10px;
+}
+
+.personalizado:hover{
+    background-color: rgb(169, 211, 130);
+}
+
+.pseudo{
+    padding: 10px;
+}
