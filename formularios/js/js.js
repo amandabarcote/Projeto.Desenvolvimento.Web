@@ -31,7 +31,7 @@ function Enviar() {
 
     // Se tudo estiver correto, redireciona para a página inicial
     if (ok) {
-        window.location.href = "https://amandabarcote.github.io/trabalho.Desenvolvimento.Web";
+        window.location.href = "https://amandabarcote.github.io/trabalho.Desenvolvimento.Web/";
     }
 
     return ok; // Retorna false para evitar o envio do formulário se houver erros
